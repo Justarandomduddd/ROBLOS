@@ -1,1 +1,9 @@
-https://www.youtube.com/watch?v=13v62kybV7A
+YT: https://www.youtube.com/watch?v=13v62kybV7A
+
+
+
+
+
+Monzters framework, this is a framework which you probably should learn if you want to make your code modular (good).
+- It uses a central module loader which initializes all the modules you need, and it puts a listener for new modules added on the client's side to initialize it as well.
+- Very organized, all the server stuff is on one side, the clients stuff on another side, and the central module script is the only one you need to require to initialize your modules, like a lightswitch that lights your whole house up with just a flick!!
