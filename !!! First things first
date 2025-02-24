@@ -1,0 +1,12 @@
+- Lo boys, before reading any of these, please do catch up on the importance of proper code organization in your games, and what module scripts are, what server-client communication is, etc,...
+- Roblos games arent just about slapping cool shtuff together, its about how to create a system on which players can hav funnnnnn.
+- Think of D&D for a lil bit, now your job as a dev is to organize and create as crazy of a world as you want, and set up rules and rewards, boundaries and mechanics upon whichhh, players can fairly play the game. Remember, no cheaters. 🔫🔫🔫
+- As a D&D DM (dungeon master), every action the player wants to make should go through you. Now translate that to ROBLOX devving, everything the player (CLIENT) wants to do, MUST, go through the SERVER (you).
+
+- Why? No cheaters, ofcourse.
+
+- How do you ensure that you're a good DM?
+- Structure your code properlyyyy, learn how to make games properly from the start.
+
+- This is my journey of doing exactly that.
+- Cus dam its confusing..
